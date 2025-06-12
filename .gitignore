@@ -1,0 +1,44 @@
+# Dependencies - WICHTIG!
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native
+.expo/
+.expo-shared/
+android/
+ios/
+
+# Metro  
+.metro-health-check*
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Coverage
+coverage/
+
+# ESLint cache
+.eslintcache
+
+# Environment
+.env*
+
+# Bundle artifacts
+*.jsbundle
+
+# Flipper
+ios/Pods/
+
+# Android
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
