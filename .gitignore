@@ -7,7 +7,6 @@ yarn-error.log*
 # React Native
 .expo/
 .expo-shared/
-android/
 ios/
 
 # Metro  

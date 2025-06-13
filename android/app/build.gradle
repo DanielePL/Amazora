@@ -1,0 +1,12 @@
+android {
+    namespace "com.amazora"
+    compileSdk 34
+    
+    defaultConfig {
+        applicationId "com.amazora"
+        minSdk 21
+        targetSdk 34
+        versionCode 1
+        versionName "1.0.0"
+    }
+}
